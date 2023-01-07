@@ -6,7 +6,6 @@ import navbarimg34 from '../../assets/List Manu (1).png'
 import navbarimg5 from '../../assets/log out.png'
 import { useState } from 'react'
 import { NavLink } from 'react-router-dom'
-import ModeToggle from '../DarkLightModaComponment/datkComponent'
 function Navbar() {
     const [open, setOpen] = useState(false)
 
