@@ -1,0 +1,21 @@
+.box_conutine {
+    margin-top: 50px;
+    justify-content: space-between;
+    display: flex;
+}
+.conutine_link {
+    margin-top: 8px;
+}
+.con_ul {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.conutine_text {
+    margin-top: 15px;
+}
+.con_ul1 {
+    display: flex;
+    margin-top: 65px;
+    justify-content: space-between;
+}

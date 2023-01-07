@@ -1,0 +1,16 @@
+.service_title {
+    margin-left: -20px;
+}
+.media_ul {
+    margin-top: 20px
+}
+.media_li {
+    margin-top: 25px;
+    display: flex;
+}
+.prime_text {
+    margin-top: 8px;
+    font-size: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
